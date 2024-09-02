@@ -119,22 +119,14 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:wzqzwh2xn@mozmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://lucashtm.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/LucasHTMartins"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
@@ -320,4 +312,4 @@ defaults:
       read_time: false
       comments: # true
       share: true
-      related: true
+      related: false
