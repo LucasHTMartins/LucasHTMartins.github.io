@@ -111,8 +111,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lucas HTM."
-  avatar           : "/assets/images/mainlogo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Lucas H.T.M."
+  avatar           : "/assets/images/Head.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Developer, Violinist, Ultra-runner."
   location         : "Michigan"
   email            :
