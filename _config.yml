@@ -1,5 +1,55 @@
+# Site settings
+title: "Lucas Martins"
+description: "My personal website"
+baseurl: "" # leave this empty if you're hosting from the root of a custom domain
+url: "https://lucashtm.com" # the base URL of your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-include-cache
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+# Author settings
+author:
+  name: "Lucas Martins"
+  #avatar: "/path/to/avatar.jpg" # Optional, replace with your image
+  bio: "Software developer."
 
+# Social links (Optional)
+social:
+  twitter: "nah"
+  github: "LucasHTMartins"
+
+# Navigation links (Optional)
+nav:
+  - text: "Home"
+    url: "/"
+  - text: "About"
+    url: "/about/"
+  - text: "Projects"
+    url: "/projects/"
+  - text: "Contact"
+    url: "/contact/"
+
+# Collections (Optional)
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Defaults (Optional)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author: "Lucas Martins"
+
+# Other configurations (Optional)
+paginate: 5
+paginate_path: "/page/:num/"
