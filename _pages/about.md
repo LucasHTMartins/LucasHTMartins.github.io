@@ -4,7 +4,7 @@ title: "About"
 layout: single
 ---
 
-<h1>Hello and welcome to my website!</h1>
+<h1>About</h1>
 
 <p>In my <a href="/projects/">Projects</a> tab, you can find detailed summaries of my programming and computer science projects.</p>
 
