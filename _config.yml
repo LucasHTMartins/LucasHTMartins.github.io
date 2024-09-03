@@ -17,7 +17,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Lucas H.T.M."
 title_separator          : "-"
-subtitle                 : "A Personal Site" # site tagline that appears below site title in masthead
+subtitle                 : "My Personal Site" # site tagline that appears below site title in masthead
 name                     : "Lucas H.T.M."
 description              : "My resume and portfolio website."
 url                      : "https://lucashtm.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -218,29 +218,29 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /blog/page:num/
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 #   for configuration details
-pagination:
-  # Set enabled to true to use paginate v2
-  enabled: true
-  debug: false
-  collection: 'blog'
-  per_page: 10
-  permalink: '/blog/page/:num/'
-  title: ':title - page :num'
-  limit: 4
-  sort_field: 'date'
-  sort_reverse: true
-  category: ''
-  tag: ''
-  locale: ''
-  trail:
-    before: 2
-    after: 2
+# pagination:
+#   # Set enabled to true to use paginate v2
+#   enabled: true
+#   debug: false
+#   collection: 'blog'
+#   per_page: 10
+#   permalink: '/blog/page/:num/'
+#   title: ':title - page :num'
+#   limit: 4
+#   sort_field: 'date'
+#   sort_reverse: true
+#   category: ''
+#   tag: ''
+#   locale: ''
+#   trail:
+#     before: 2
+#     after: 2
 
 collections:
   blog:
