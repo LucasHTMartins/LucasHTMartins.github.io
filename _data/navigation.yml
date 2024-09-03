@@ -1,7 +1,7 @@
 # main links
 
 main:
-  - title: "Projects" # Change to Projects
+  - title: "Projects"
     url: /projects/
   - title: "Blog"
     url: /blog/
@@ -9,8 +9,3 @@ main:
     url: /contact/
   - title: "About"
     url: /about/
-
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/

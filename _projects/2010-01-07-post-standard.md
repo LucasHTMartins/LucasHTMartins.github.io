@@ -1,8 +1,8 @@
 ---
-title: "Post: Standard"
+title: "Projects: Standard"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Projects
 tags:
   - Post Formats
   - readability
