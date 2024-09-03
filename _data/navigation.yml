@@ -2,7 +2,7 @@
 
 main:
   - title: "Projects" # Change to Projects
-    url: /posts/
+    url: /projects/
   - title: "Blog"
     url: /blog/
   - title: "Contact"
