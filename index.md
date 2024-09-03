@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: true
+no_posts: true
 ---
 
 # Welcome to My Personal Website!
