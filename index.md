@@ -1,8 +1,5 @@
-
 ---
-permalink: /
-title: "Welcome"
-layout: single
+layout: home
 author_profile: true
 ---
 
