@@ -1,4 +1,5 @@
 ---
+title: Welcome!
 layout: home
 author_profile: true
 no_posts: true
