@@ -150,7 +150,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-
 # Reading Files
 include:
   - .htaccess
@@ -180,8 +179,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -222,7 +219,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num/
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
@@ -231,9 +228,9 @@ pagination:
   # Set enabled to true to use paginate v2
   enabled: true
   debug: false
-  collection: 'projects'
+  collection: 'blog'
   per_page: 10
-  permalink: '/projects/page/:num/'
+  permalink: '/blog/page/:num/'
   title: ':title - page :num'
   limit: 0
   sort_field: 'date'

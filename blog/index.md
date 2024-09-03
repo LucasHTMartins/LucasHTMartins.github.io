@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-layout: single
+layout: home
 ---
 
 Welcome to my blog! Here you’ll find personal news and updates related to my recent adventures.
