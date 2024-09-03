@@ -8,11 +8,7 @@ Welcome to my blog! Here you’ll find personal news and updates related to my r
 
 
 <ul>
-  {% for post in site.posts %}
-    {% if post.path contains '/blog/' %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-      </li>
-    {% endif %}
+  {% for post in site.blog %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
