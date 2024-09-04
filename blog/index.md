@@ -2,7 +2,7 @@
 title: "Blog"
 layout: home
 author_profile: true
-
+no_posts: true
 ---
 
 Welcome to my blog! Here you’ll find personal news and updates related to my recent adventures.
