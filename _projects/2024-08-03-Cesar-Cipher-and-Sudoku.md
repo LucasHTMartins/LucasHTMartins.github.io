@@ -32,4 +32,4 @@ At the time, I was just starting to study cryptography and wanted to explore how
 
 - Working on this project helped me understand the basics of frequency analysis and how to implement it in code.
 - The project reinforced the importance of testing and refining algorithms to ensure accuracy.
-- At the time I was also learning about test driven development, and so, I wrote simple testes for most functions while writing code.
+- At the time I was also learning about test driven development, and so, I wrote simple tests for most functions while writing code.

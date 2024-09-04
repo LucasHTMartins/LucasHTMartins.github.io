@@ -7,9 +7,10 @@ layout: single
 author_profile: true
 ---
 
-# My Largest Project up to Early 2024
 
 This project started from humble beginnings as part of a homework assignment for my first algorithms course, CS50-AI from Harvard University offered by EdX. The assignment was to write a path-finding algorithm (Breadth-First Search) to navigate through a few dozen data points. As I worked on the assignment, I started wondering if I could expand this idea by using a larger dataset and a database.
+
+If you are unfamiliar with the idea, the concept of "Six Degrees of Hollywood" is based on the idea that any two actors can be connected through their roles in movies within six steps or fewer. This notion is rooted in the broader "Six Degrees of Separation" theory, which suggests that everyone in the world is six or fewer social connections away from each other.
 
 I eventually found a substantial dataset from IMDb, consisting of multiple relational tables, and decided to take on the challenge of working with it. Extracting the relevant data in the correct format proved to be challenging. The project's GitHub repository (linked [here](https://github.com/LucasHTMartins/Six-Degrees-of-Hollywood)) provides a more comprehensive write-up of these challenges.
 

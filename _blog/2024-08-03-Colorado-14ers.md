@@ -1,11 +1,11 @@
 ---
 title: "Colorado 14ers"
-date: 2024-04-18T15:34:30-04:00
+date: 2024-08-03T15:34:30-04:00
 categories:
   - Blog
 layout: home
 author_profile: false
-
+no_posts: true
 ---
 
 More information and pictures to come...
