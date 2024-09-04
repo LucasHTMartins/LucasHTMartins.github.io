@@ -47,7 +47,6 @@ Here are the courses grouped by area of study
 | -------------------------------------------------- | ---------------- |
 | Systematic Program Design                          | Not yet *(red)*  |
 | *UBC*                                              |                  |
-|                                                    |                  |
 | Programming Languages Part A                       | July 2024        |
 | *University of Washington*                         |                  |
 |                                                    |                  |
