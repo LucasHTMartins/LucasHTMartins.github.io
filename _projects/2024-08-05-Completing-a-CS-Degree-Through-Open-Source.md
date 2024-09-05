@@ -5,8 +5,8 @@ categories:
   - Projects
 layout: home
 author_profile: false
-no_posts: true
-layout: wide
+classes: wide
+
 ---
 
 <style>
