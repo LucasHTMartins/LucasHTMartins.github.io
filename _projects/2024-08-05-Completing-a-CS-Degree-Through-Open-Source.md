@@ -65,11 +65,11 @@ Here are the courses grouped by area of study
 
 | Suggested Course                                   | Completed Date                                   |
 | :------------------------------------------------: | ----------------------------------------------- |
-| Systematic Program Design                          | <span class="not">Not yet</span>                |
+| **Systematic Program Design**                      | <span class="not">Not yet</span>                |
 |   *UBC*                                            |                                                 |
-| Programming Languages Part A                       | <span class="completed">July 2024</span>        |
+| **Programming Languages Part A**                   | <span class="completed">July 2024</span>        |
 |   *University of Washington*                       |                                                 |
-| Programming Languages Part B                       | <span class="completed">July 2024</span>        |
+| **Programming Languages Part B**                   | <span class="completed">July 2024</span>        |
 |   *University of Washington*                       |                                                 |
 | Programming Languages Part C                       | <span class="completed">August 2024</span>      |
 |   *University of Washington*                       |                                                 |
