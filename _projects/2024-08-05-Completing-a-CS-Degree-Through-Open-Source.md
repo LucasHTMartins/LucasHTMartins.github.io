@@ -44,11 +44,11 @@ Here are the courses grouped by area of study
 
 ## Introduction to Programming
 
-| Suggested Course                                   | Completed Date                                  |
-| :--------------------------------------------------: | :---------------------------------------------: |
-| **CS50-P Introduction to Programming with Python**     | <span class="completed">August 2023</span>      |
+| Suggested Course                                     | Completed Date                                  |
+| -------------------------------------------------- | --------------------------------------------- |
+| **CS50-P Introduction to Programming with Python**   | <span class="completed">August 2023</span>      |
 | *Harvard University*                                 |                                                 |
-| **OR**                  cc                           |                                                 |
+| **OR**                                               |                                                 |
 | **Python for Everybody**                             | <span class="completed">September 2023</span>   |
 | *University of Michigan*                             | (completed both)                                |
 
@@ -56,7 +56,7 @@ Here are the courses grouped by area of study
 ## Introduction to Computer Science
 
 | Completed Equivalent                   | Completed Date                                  |
-| :--------------------------------------:  | :---------------------------------------------: |
+| --------------------------------------  | --------------------------------------------- |
 | **CS50 Introduction to Computer Science** | <span class="completed">August 2023</span>      |
 | *Harvard University*                      |                                                 |
 
@@ -64,7 +64,7 @@ Here are the courses grouped by area of study
 ## Core Programming
 
 | Suggested Course                                   | Completed Date                                  |
-| :------------------------------------------------: | :---------------------------------------------: |
+| ------------------------------------------------ | --------------------------------------------- |
 | **Systematic Program Design**                      | <span class="not">Not yet</span>                |
 |   *UBC*                                            |                                                 |
 | **Programming Languages Part A**                   | <span class="completed">July 2024</span>        |
@@ -86,12 +86,12 @@ Here are the courses grouped by area of study
 This section includes 4 courses from Stanford covering various topics on algorithms. This area quickly became one of my favorite fields, and I covered the curriculum through courses from Stanford and Georgia Tech.
 
 | Completed Equivalents                              | Date             |
-| -------------------------------------------------- | ---------------- |
-| Introduction to Artificial Intelligence with Python| January 2024     |
-| Harvard University                                 |                  |
+| :--------------------------------------------------: | :----------------: |
+| **Introduction to Artificial Intelligence with Python** | <span class="completed">January 2024</span>        |
+| *Harvard University*                                 |                  |
 | Algorithms, Part I                                 | February 2024    |
 | Stanford                                           |                  |
-| Algorithms, Part II                                | Not yet *(red)*  |
+| Algorithms, Part II                                | <span class="not">Not yet</span>                |
 | Stanford                                           |                  |
 | Course I                                           | July 2024        |
 | Georgia Tech                                       |                  |
