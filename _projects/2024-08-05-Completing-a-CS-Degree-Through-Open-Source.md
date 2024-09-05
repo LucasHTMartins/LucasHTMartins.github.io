@@ -8,6 +8,27 @@ author_profile: false
 no_posts: true
 ---
 
+<style>
+
+  .completed {
+    color: green;
+  }
+
+  .in-progress {
+    color: blue;
+  }
+
+  .not {
+    color: red;
+  }
+
+  hr {
+    border: 2px solid black;
+    margin: 10px 0;
+  }
+
+</style>
+
 In September 2023, I realized I was enjoying programming and studying a variety of computer science material quite a lot. However, one of the drawbacks of having so much free and available material online is that choosing what to study, and when, poses a considerable challenge for anyone unfamiliar with the field. I was fortunate to have started with two excellent courses: *Python for Everybody* from the University of Michigan (offered on Coursera) and *CS50* by Harvard University (offered on EdX). I was hooked and wanted more.
 
 Later that year, I discovered the Open Source Society University's (OSSU) curriculum for Computer Science. Here's how OSSU describes this curriculum:
@@ -23,45 +44,46 @@ Here are the courses grouped by area of study
 
 ## Introduction to Programming
 
-| Suggested Course                                   | Completed Date   |
-| -------------------------------------------------- | ---------------- |
-| CS50-P Introduction to Programming with Python     | August 2023      |
-| Harvard University                                 |                  |
-| **OR**                                             |                  |
-| Python for Everybody                               | September 2023   |
-| University of Michigan                             | (completed both) |
+| Suggested Course                                   | Completed Date                                  |
+| -------------------------------------------------- | ----------------------------------------------- |
+| CS50-P Introduction to Programming with Python     | <span class="completed">August 2023</span>      |
+| Harvard University                                 |                                                 |
+| **OR**                                             |                                                 |
+| Python for Everybody                               | <span class="completed">September 2023</span>   |
+| University of Michigan                             | (completed both)                                |
+
 
 ## Introduction to Computer Science
 
-| Suggested Course                                   | Completed Equivalent                  |
-| -------------------------------------------------- | --------------------------------------|
-| Introduction to CS and Programming using Python    | CS50 Introduction to Computer Science |
-| MIT                                                | Harvard University                    |
-|                                                    | September 2023                        |
+| Completed Equivalent                   | Completed Date                                  |
+| -------------------------------------- | ----------------------------------------------- |
+| CS50 Introduction to Computer Science  | <span class="completed">August 2023</span>      |
+| Harvard University                     |                                                 |
+
 
 ## Core Programming
 
 | Suggested Course                                   | Completed Date   |
 | -------------------------------------------------- | ---------------- |
-| Systematic Program Design                          | Not yet *(red)*  |
+| Systematic Program Design                          | <span class="not">Not yet</span> |
 | UBC                                                |                  |
-|                                                    |                  |
-| Programming Languages Part A                       | July 2024        |
+| <hr>                                               | <hr>             |
+| Programming Languages Part A                       | <span class="green">July 2024</span> |
 | University of Washington                           |                  |
-|                                                    |                  |
-| Programming Languages Part B                       | July 2024        |
+| <hr>                                               | <hr>             |
+| Programming Languages Part B                       | <span class="green">July 2024</span> |
 | University of Washington                           |                  |
-|                                                    |                  |
-| Programming Languages Part C                       | August 2024      |
+| <hr>                                               | <hr>             |
+| Programming Languages Part C                       | <span class="green">August 2024</span> |
 | University of Washington                           |                  |
-|                                                    |                  |
-| Object-Oriented Design                             | August 2024      |
+| <hr>                                               | <hr>             |
+| Object-Oriented Design                             | <span class="green">August 2024</span> |
 | University of Alberta                              |                  |
-|                                                    |                  |
-| Design Patterns                                    | September 2024   |
+| <hr>                                               | <hr>             |
+| Design Patterns                                    | <span class="green">September 2024</span> |
 | University of Alberta                              |                  |
-|                                                    |                  |
-| Software Architecture                              | Not yet *(red)*  |
+| <hr>                                               | <hr>             |
+| Software Architecture                              | <span class="not">Not yet</span> |
 | University of Alberta                              |                  |
 
 ## Core Theory
