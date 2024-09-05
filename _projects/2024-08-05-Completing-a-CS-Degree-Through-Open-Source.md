@@ -4,8 +4,7 @@ date: 2024-08-05T15:34:30-04:00
 categories:
   - Projects
 layout: home
-author_profile: false
-classes: wide
+author_profile: true
 
 ---
 
