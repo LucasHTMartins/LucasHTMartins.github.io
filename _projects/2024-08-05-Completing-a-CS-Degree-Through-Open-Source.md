@@ -22,11 +22,6 @@ no_posts: true
     color: red;
   }
 
-  hr {
-    border: 2px solid black;
-    margin: 10px 0;
-  }
-
 </style>
 
 In September 2023, I realized I was enjoying programming and studying a variety of computer science material quite a lot. However, one of the drawbacks of having so much free and available material online is that choosing what to study, and when, poses a considerable challenge for anyone unfamiliar with the field. I was fortunate to have started with two excellent courses: *Python for Everybody* from the University of Michigan (offered on Coursera) and *CS50* by Harvard University (offered on EdX). I was hooked and wanted more.
@@ -67,11 +62,11 @@ Here are the courses grouped by area of study
 | ------------------------------------------------ | --------------------------------------------- |
 | **Systematic Program Design**                      | <span class="not">Not yet</span>                |
 |   *UBC*                                            |                                                 |
-| **Programming Languages Part A**                   | <span class="completed">July 2024</span>        |
+| **Programming Languages, Part A**                   | <span class="completed">July 2024</span>        |
 |   *University of Washington*                       |                                                 |
-| **Programming Languages Part B**                   | <span class="completed">July 2024</span>        |
+| **Programming Languages, Part B**                   | <span class="completed">July 2024</span>        |
 |   *University of Washington*                       |                                                 |
-| **Programming Languages Part C**                   | <span class="completed">August 2024</span>      |
+| **Programming Languages, Part C**                   | <span class="completed">August 2024</span>      |
 |   *University of Washington*                       |                                                 |
 | **Object-Oriented Design**                         | <span class="completed">August 2024</span>      |
 |   *University of Alberta*                          |                                                 |
@@ -85,84 +80,89 @@ Here are the courses grouped by area of study
 
 This section includes 4 courses from Stanford covering various topics on algorithms. This area quickly became one of my favorite fields, and I covered the curriculum through courses from Stanford and Georgia Tech.
 
-| Completed Equivalents                              | Date             |
-| :--------------------------------------------------: | :----------------: |
-| **Introduction to Artificial Intelligence with Python** | <span class="completed">January 2024</span>        |
-| *Harvard University*                                 |                  |
-| Algorithms, Part I                                 | February 2024    |
-| Stanford                                           |                  |
-| Algorithms, Part II                                | <span class="not">Not yet</span>                |
-| Stanford                                           |                  |
-| Course I                                           | July 2024        |
-| Georgia Tech                                       |                  |
-| Course II                                          | July 2024        |
-| Georgia Tech                                       |                  |
-| Course III                                         | July 2024        |
-| Georgia Tech                                       |                  |
-| Course IV                                          | July 2024        |
-| Georgia Tech                                       |                  |
+| Completed Equivalents                              | Date                                        |
+| -------------------------------------------------- | ------------------------------------------- |
+| **Introduction to Artificial Intelligence with Python** | <span class="completed">January 2024</span> |
+| *Harvard University*                               |                                              |
+| **Algorithms, Part I**                             | <span class="completed">February 2024</span> |
+|   *Stanford*                                       |                                              |
+| **Algorithms, Part II**                            | <span class="not">Not yet</span>             |
+|   *Stanford*                                       |                                              |
+| **Course I**                                       | <span class="completed">July 2024</span>     |
+|   *Georgia Tech*                                   |                                              |
+| **Course II**                                      | <span class="completed">July 2024</span>     |
+|   *Georgia Tech*                                   |                                              |
+| **Course III**                                     | <span class="completed">July 2024</span>     |
+|   *Georgia Tech*                                   |                                              |
+| **Course IV**                                      | <span class="completed">July 2024</span>     |
+|   *Georgia Tech*                                   |                                              |
+
 
 ## Core Security
 
-| Suggested Course                                   | Completed Date   |
-| -------------------------------------------------- | ---------------- |
-| Cybersecurity Fundamentals                         | Not yet *(red)*  |
-|                                                    |                  |
-| Principles of Secure Coding                        | July 2024        |
-| University of California, Davis                    |                  |
-| Identifying Security Vulnerabilities               | July 2024        |
-| University of California, Davis                    |                  |
-| Identifying Security Vulnerabilities in Java       | Not yet *(red)*  |
-| University of California, Davis                    |                  |
+| Suggested Course                                   | Completed Date                                  |
+| -------------------------------------------------- | ----------------------------------------------- |
+| **Cybersecurity Fundamentals**                     | <span class="not">Not yet</span>                |
+| **Principles of Secure Coding**                    | <span class="completed">July 2024</span>        |
+|   *University of California, Davis*                |                                                 |
+| **Identifying Security Vulnerabilities**           | <span class="completed">July 2024</span>        |
+|   *University of California, Davis*                |                                                 |
+| **Identifying Security Vulnerabilities in Java**   | <span class="not">Not yet</span>                |
+|   *University of California, Davis*                |                                                 |
+
 
 ## Core Systems
 
-| Suggested Course                                   | Completed Date   |
-| -------------------------------------------------- | ---------------- |
-| Build a Modern Computer from First Principles:     | December 2023    |
-| Part I (Nand to Tetris)                            |                  |
-| University of Jerusalem                            |                  |
-| Build a Modern Computer from First Principles:     | Not yet *(red)*  |
-| Part II (Nand to Tetris)                           |                  |
-| Operating Systems: Three Easy Pieces               | Not yet *(red)*  |
-| Book                                               |                  |
-| Computer Networking: A Top-Down Approach           | IN PROGRESS      |
-| Book                                               |                  |
+| Suggested Course                                   | Completed Date                                  |
+| -------------------------------------------------- | ---------------------------------------------- |
+| **Build a Modern Computer from First Principles, Part I**     | <span class="completed">December 2023</span>   |
+| *University of Jerusalem*                          |                                                |
+| **Build a Modern Computer from First Principles, Part II**    | <span class="not">Not yet</span>               |
+| *University of Jerusalem*                          |                                                |
+| **Operating Systems: Three Easy Pieces**           | <span class="not">Not yet</span>               |
+| *Book*                                             |                                                |
+| **Computer Networking: A Top-Down Approach**       | <span class="in-progress">In Progress</span>    |
+| *Book*                                             |                                                |
+
 
 ## CS Tools
 
-| Suggested Course                                   | Completed Date   |
-| -------------------------------------------------- | ---------------- |
-| The Missing Semester of Your CS Education          | Not yet *(red)*  |
-| MIT                                                |                  |
+| Suggested Course                                   | Completed Date                                  |
+| -------------------------------------------------- | ---------------------------------------------- |
+| **The Missing Semester of Your CS Education**      | <span class="not">Not yet</span>               |
+| *MIT*                                              |                                                |
+
 
 ## Core Math
 
-| Suggested Course                                   | Completed Date   |
-| -------------------------------------------------- | ---------------- |
-| Single Variable Calculus                           | Not yet *(red)*  |
-|                                                    |                  |
-| Mathematics for Computer Science                   | Not yet *(red)*  |
+| Suggested Course                                   | Completed Date                                  |
+| -------------------------------------------------- | ---------------------------------------------- |
+| **Single Variable Calculus**                       | <span class="not">Not yet</span>               |
+|                                                    |                                                |
+| **Mathematics for Computer Science**               | <span class="not">Not yet</span>               |
+
 
 ## Core Applications
 
-| Suggested Course                                   | Completed Date   |
-| -------------------------------------------------- | ---------------- |
-| Databases: Modeling and Theory                     | Not yet *(red)*  |
-| Databases: Relational Databases and SQL            | Not yet *(red)*  |
-| Databases: Semistructured Data                     | Not yet *(red)*  |
-| Machine Learning                                   | IN PROGRESS      |
-| University of Washington                           |                  |
-| Computer Graphics                                  | Not yet *(red)*  |
-| Software Engineering: Introduction                 | Not yet *(red)*  |
+| Suggested Course                                   | Completed Date                                  |
+| -------------------------------------------------- | ---------------------------------------------- |
+| **Databases: Modeling and Theory**                 | <span class="not">Not yet</span>               |
+| **Databases: Relational Databases and SQL**        | <span class="not">Not yet</span>               |
+| **Databases: Semistructured Data**                 | <span class="not">Not yet</span>               |
+| **Machine Learning**                               | <span class="in-progress">In Progress</span>    |
+| *University of Washington*                         |                                                |
+| **Computer Graphics**                              | <span class="not">Not yet</span>               |
+| **Software Engineering: Introduction**             | <span class="not">Not yet</span>               |
+
 
 ## Core Ethics
 
-| Suggested Course                                   | Completed Date   |
-| -------------------------------------------------- | ---------------- |
-| Ethics, Technology, and Engineering                | Not yet *(red)*  |
-| Introduction to Intellectual Property              | Not yet *(red)*  |
-| Data Privacy Fundamentals                          | Not yet *(red)*  |
+| Suggested Course                                   | Completed Date                                  |
+| -------------------------------------------------- | ---------------------------------------------- |
+| **Ethics, Technology, and Engineering**            | <span class="not">Not yet</span>               |
+| **Introduction to Intellectual Property**          | <span class="not">Not yet</span>               |
+| **Data Privacy Fundamentals**                      | <span class="not">Not yet</span>               |
+
 
 ## Advanced CS
 
@@ -170,12 +170,14 @@ I am approaching the advanced courses by covering three main areas: Advanced Pro
 
 ## Electives
 
-| Suggested Course                                   | Completed Date   |
-| -------------------------------------------------- | ---------------- |
-| PostgreSQL                                         | December 2023    |
-| University of Michigan                             |                  |
-| Introduction to Mathematical Thinking              | IN PROGRESS      |
-| Stanford                                           |                  |
+These are not mandatory or listed by OSSU but they seemed interesting and covered personal gaps.
+
+| Suggested Course                                   | Completed Date                                  |
+| -------------------------------------------------- | ---------------------------------------------- |
+| **PostgreSQL**                                     | <span class="completed">December 2023</span>   |
+| *University of Michigan*                           |                                                |
+| **Introduction to Mathematical Thinking**          | <span class="in-progress">In Progress</span>    |
+| *Stanford*                                         |                                                |
 
 
 
