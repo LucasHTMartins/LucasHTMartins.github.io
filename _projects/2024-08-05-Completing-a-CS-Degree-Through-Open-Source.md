@@ -45,40 +45,41 @@ Here are the courses grouped by area of study
 ## Introduction to Programming
 
 | Suggested Course                                   | Completed Date                                  |
-| -------------------------------------------------- | ----------------------------------------------- |
-| CS50-P Introduction to Programming with Python     | <span class="completed">August 2023</span>      |
+| :--------------------------------------------------: | :---------------------------------------------: |
+| **CS50-P Introduction to Programming with Python**     | <span class="completed">August 2023</span>      |
 | *Harvard University*                                 |                                                 |
-| **OR**                                             |                                                 |
-| Python for Everybody                               | <span class="completed">September 2023</span>   |
+| **OR**                  cc                           |                                                 |
+| **Python for Everybody**                             | <span class="completed">September 2023</span>   |
 | *University of Michigan*                             | (completed both)                                |
 
 
 ## Introduction to Computer Science
 
 | Completed Equivalent                   | Completed Date                                  |
-| -------------------------------------- | ----------------------------------------------- |
-| CS50 Introduction to Computer Science  | <span class="completed">August 2023</span>      |
-| *Harvard University*                     |                                                 |
+| :--------------------------------------:  | :---------------------------------------------: |
+| **CS50 Introduction to Computer Science** | <span class="completed">August 2023</span>      |
+| *Harvard University*                      |                                                 |
 
 
 ## Core Programming
 
-| Suggested Course                                   | Completed Date                                   |
-| :------------------------------------------------: | ----------------------------------------------- |
+| Suggested Course                                   | Completed Date                                  |
+| :------------------------------------------------: | :---------------------------------------------: |
 | **Systematic Program Design**                      | <span class="not">Not yet</span>                |
 |   *UBC*                                            |                                                 |
 | **Programming Languages Part A**                   | <span class="completed">July 2024</span>        |
 |   *University of Washington*                       |                                                 |
 | **Programming Languages Part B**                   | <span class="completed">July 2024</span>        |
 |   *University of Washington*                       |                                                 |
-| Programming Languages Part C                       | <span class="completed">August 2024</span>      |
+| **Programming Languages Part C**                   | <span class="completed">August 2024</span>      |
 |   *University of Washington*                       |                                                 |
-| Object-Oriented Design                             | <span class="completed">August 2024</span>      |
+| **Object-Oriented Design**                         | <span class="completed">August 2024</span>      |
 |   *University of Alberta*                          |                                                 |
-| Design Patterns                                    | <span class="completed">September 2024</span>   |
+| **Design Patterns**                                | <span class="completed">September 2024</span>   |
 |   *University of Alberta*                          |                                                 |
-| Software Architecture                              | <span class="not">Not yet</span>                |
+| **Software Architecture**                          | <span class="not">Not yet</span>                |
 |   *University of Alberta*                          |                                                 |
+
 
 ## Core Theory
 
