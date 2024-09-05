@@ -103,6 +103,7 @@ This section includes 4 courses from Stanford covering various topics on algorit
 | Suggested Course                                   | Completed Date                                  |
 | -------------------------------------------------- | ----------------------------------------------- |
 | **Cybersecurity Fundamentals**                     | <span class="not">Not yet</span>                |
+| *Rochester Institute of Technology*                |                                                 |
 | **Principles of Secure Coding**                    | <span class="completed">July 2024</span>        |
 |   *University of California, Davis*                |                                                 |
 | **Identifying Security Vulnerabilities**           | <span class="completed">July 2024</span>        |
@@ -138,7 +139,7 @@ This section includes 4 courses from Stanford covering various topics on algorit
 | Suggested Course                                   | Completed Date                                  |
 | -------------------------------------------------- | ---------------------------------------------- |
 | **Single Variable Calculus**                       | <span class="not">Not yet</span>               |
-|                                                    |                                                |
+| *MIT*                                              |                                                |
 | **Mathematics for Computer Science**               | <span class="not">Not yet</span>               |
 
 
@@ -176,7 +177,7 @@ These are not mandatory or listed by OSSU but they seemed interesting and covere
 | -------------------------------------------------- | ---------------------------------------------- |
 | **PostgreSQL**                                     | <span class="completed">December 2023</span>   |
 | *University of Michigan*                           |                                                |
-| **Introduction to Mathematical Thinking**          | <span class="in-progress">In Progress</span>    |
+| **Introduction to Mathematical Thinking**          | <span class="completed">October 2024</span>    |
 | *Stanford*                                         |                                                |
 
 
