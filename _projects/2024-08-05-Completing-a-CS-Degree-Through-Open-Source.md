@@ -47,10 +47,10 @@ Here are the courses grouped by area of study
 | Suggested Course                                   | Completed Date                                  |
 | -------------------------------------------------- | ----------------------------------------------- |
 | CS50-P Introduction to Programming with Python     | <span class="completed">August 2023</span>      |
-| Harvard University                                 |                                                 |
+| *Harvard University*                                 |                                                 |
 | **OR**                                             |                                                 |
 | Python for Everybody                               | <span class="completed">September 2023</span>   |
-| University of Michigan                             | (completed both)                                |
+| *University of Michigan*                             | (completed both)                                |
 
 
 ## Introduction to Computer Science
@@ -58,7 +58,7 @@ Here are the courses grouped by area of study
 | Completed Equivalent                   | Completed Date                                  |
 | -------------------------------------- | ----------------------------------------------- |
 | CS50 Introduction to Computer Science  | <span class="completed">August 2023</span>      |
-| Harvard University                     |                                                 |
+| *Harvard University*                     |                                                 |
 
 
 ## Core Programming
@@ -66,37 +66,19 @@ Here are the courses grouped by area of study
 | Suggested Course                                   | Completed Date                                   |
 | -------------------------------------------------- | ----------------------------------------------- |
 | Systematic Program Design                          | <span class="not">Not yet</span>                |
-| UBC                                                |                                                 |
-
----
-
+| *UBC*                                                |                                                 |
 | Programming Languages Part A                       | <span class="completed">July 2024</span>        |
-| University of Washington                           |                                                 |
-
----
-
+| *University of Washington*                           |                                                 |
 | Programming Languages Part B                       | <span class="completed">July 2024</span>        |
-| University of Washington                           |                                                 |
-
----
-
+| *University of Washington*                           |                                                 |
 | Programming Languages Part C                       | <span class="completed">August 2024</span>      |
-| University of Washington                           |                                                 |
-
----
-
+| *University of Washington*                           |                                                 |
 | Object-Oriented Design                             | <span class="completed">August 2024</span>      |
-| University of Alberta                              |                                                 |
-
----
-
+| *University of Alberta*                              |                                                 |
 | Design Patterns                                    | <span class="completed">September 2024</span>   |
-| University of Alberta                              |                                                 |
-
----
-
+| *University of Alberta*                              |                                                 |
 | Software Architecture                              | <span class="not">Not yet</span>                |
-| University of Alberta                              |                                                 |
+| *University of Alberta*                              |                                                 |
 
 ## Core Theory
 
