@@ -63,28 +63,40 @@ Here are the courses grouped by area of study
 
 ## Core Programming
 
-| Suggested Course                                   | Completed Date   |
-| -------------------------------------------------- | ---------------- |
-| Systematic Program Design                          | <span class="not">Not yet</span> |
-| UBC                                                |                  |
-| <hr>                                               | <hr>             |
-| Programming Languages Part A                       | <span class="green">July 2024</span> |
-| University of Washington                           |                  |
-| <hr>                                               | <hr>             |
-| Programming Languages Part B                       | <span class="green">July 2024</span> |
-| University of Washington                           |                  |
-| <hr>                                               | <hr>             |
-| Programming Languages Part C                       | <span class="green">August 2024</span> |
-| University of Washington                           |                  |
-| <hr>                                               | <hr>             |
-| Object-Oriented Design                             | <span class="green">August 2024</span> |
-| University of Alberta                              |                  |
-| <hr>                                               | <hr>             |
-| Design Patterns                                    | <span class="green">September 2024</span> |
-| University of Alberta                              |                  |
-| <hr>                                               | <hr>             |
-| Software Architecture                              | <span class="not">Not yet</span> |
-| University of Alberta                              |                  |
+| Suggested Course                                   | Completed Date                                   |
+| -------------------------------------------------- | ----------------------------------------------- |
+| Systematic Program Design                          | <span class="not">Not yet</span>                |
+| UBC                                                |                                                 |
+
+---
+
+| Programming Languages Part A                       | <span class="completed">July 2024</span>        |
+| University of Washington                           |                                                 |
+
+---
+
+| Programming Languages Part B                       | <span class="completed">July 2024</span>        |
+| University of Washington                           |                                                 |
+
+---
+
+| Programming Languages Part C                       | <span class="completed">August 2024</span>      |
+| University of Washington                           |                                                 |
+
+---
+
+| Object-Oriented Design                             | <span class="completed">August 2024</span>      |
+| University of Alberta                              |                                                 |
+
+---
+
+| Design Patterns                                    | <span class="completed">September 2024</span>   |
+| University of Alberta                              |                                                 |
+
+---
+
+| Software Architecture                              | <span class="not">Not yet</span>                |
+| University of Alberta                              |                                                 |
 
 ## Core Theory
 
