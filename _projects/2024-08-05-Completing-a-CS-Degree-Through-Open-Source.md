@@ -64,7 +64,7 @@ Here are the courses grouped by area of study
 ## Core Programming
 
 | Suggested Course                                   | Completed Date                                   |
-| -------------------------------------------------- | ----------------------------------------------- |
+| :------------------------------------------------: | ----------------------------------------------- |
 | Systematic Program Design                          | <span class="not">Not yet</span>                |
 |   *UBC*                                            |                                                 |
 | Programming Languages Part A                       | <span class="completed">July 2024</span>        |
