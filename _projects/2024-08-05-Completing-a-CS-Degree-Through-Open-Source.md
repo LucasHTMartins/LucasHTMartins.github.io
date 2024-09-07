@@ -78,23 +78,21 @@ Here are the courses grouped by area of study
 
 ## Core Theory
 
-This section includes 4 courses from Stanford covering various topics on algorithms. This area quickly became one of my favorite fields, and I covered the curriculum through courses from Stanford and Georgia Tech.
-
 | Completed Equivalents                              | Date                                        |
 | -------------------------------------------------- | ------------------------------------------- |
 | **Introduction to Artificial Intelligence with Python** | <span class="completed">January 2024</span> |
 | *Harvard University*                               |                                              |
 | **Algorithms, Part I**                             | <span class="completed">February 2024</span> |
-|   *Stanford*                                       |                                              |
+|   *Stanford University*                            |                                              |
 | **Algorithms, Part II**                            | <span class="not">Not yet</span>             |
-|   *Stanford*                                       |                                              |
-| **Course I**                                       | <span class="completed">July 2024</span>     |
+|   *Stanford University*                            |                                              |
+| **Data Structures and Algorithms, Part I**         | <span class="completed">July 2024</span>     |
 |   *Georgia Tech*                                   |                                              |
-| **Course II**                                      | <span class="completed">July 2024</span>     |
+| **Data Structures and Algorithms, Part II**        | <span class="completed">July 2024</span>     |
 |   *Georgia Tech*                                   |                                              |
-| **Course III**                                     | <span class="completed">July 2024</span>     |
+| **Data Structures and Algorithms, Part III**       | <span class="completed">July 2024</span>     |
 |   *Georgia Tech*                                   |                                              |
-| **Course IV**                                      | <span class="completed">July 2024</span>     |
+| **Data Structures and Algorithms, Part IV**        | <span class="completed">July 2024</span>     |
 |   *Georgia Tech*                                   |                                              |
 
 
@@ -141,6 +139,7 @@ This section includes 4 courses from Stanford covering various topics on algorit
 | **Single Variable Calculus**                       | <span class="not">Not yet</span>               |
 | *MIT*                                              |                                                |
 | **Mathematics for Computer Science**               | <span class="not">Not yet</span>               |
+| *MIT*                                              |                                                |
 
 
 ## Core Applications
@@ -148,12 +147,17 @@ This section includes 4 courses from Stanford covering various topics on algorit
 | Suggested Course                                   | Completed Date                                  |
 | -------------------------------------------------- | ---------------------------------------------- |
 | **Databases: Modeling and Theory**                 | <span class="not">Not yet</span>               |
+| *Stanford University*                              |                                                |
 | **Databases: Relational Databases and SQL**        | <span class="not">Not yet</span>               |
+| *Stanford University*                              |                                                |
 | **Databases: Semistructured Data**                 | <span class="not">Not yet</span>               |
+| *Stanford University*                              |                                                |
 | **Machine Learning**                               | <span class="in-progress">In Progress</span>    |
 | *University of Washington*                         |                                                |
 | **Computer Graphics**                              | <span class="not">Not yet</span>               |
+| *University of California San Diego*               |                                                |
 | **Software Engineering: Introduction**             | <span class="not">Not yet</span>               |
+| *IBM*                                              |                                                |
 
 
 ## Core Ethics
@@ -161,24 +165,27 @@ This section includes 4 courses from Stanford covering various topics on algorit
 | Suggested Course                                   | Completed Date                                  |
 | -------------------------------------------------- | ---------------------------------------------- |
 | **Ethics, Technology, and Engineering**            | <span class="not">Not yet</span>               |
+| *Eindhoven University of Technology*               |                                                |
 | **Introduction to Intellectual Property**          | <span class="not">Not yet</span>               |
-| **Data Privacy Fundamentals**                      | <span class="not">Not yet</span>               |
+| *University of Pennsylvania*                       |                                                |
+| **Data Privacy Fundamentals**                      | <span class="completed">September 2024</span>  |
+| *Northeastern University*                          |                                                |
 
 
 ## Advanced CS
 
-I am approaching the advanced courses by covering three main areas: Advanced Programming, Advanced Systems, and Advanced Theory. No courses completed yet, but I will update as I progress.
+I am approaching the advanced courses by covering three main areas: Advanced Programming, Advanced Systems, and Advanced Theory. No courses completed yet, but I will update as I progress through the curriculum.
 
 ## Electives
 
-These are not mandatory or listed by OSSU but they seemed interesting and covered personal gaps.
+These are not mandatory or listed by OSSU but they seemed interesting and were informative to me.
 
-| Suggested Course                                   | Completed Date                                  |
+| Electives                                          | Completed Date                                  |
 | -------------------------------------------------- | ---------------------------------------------- |
 | **PostgreSQL**                                     | <span class="completed">December 2023</span>   |
 | *University of Michigan*                           |                                                |
 | **Introduction to Mathematical Thinking**          | <span class="completed">October 2024</span>    |
-| *Stanford*                                         |                                                |
+| *Stanford University*                              |                                                |
 
 
 
