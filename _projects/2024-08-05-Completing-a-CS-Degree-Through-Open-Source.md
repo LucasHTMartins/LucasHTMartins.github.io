@@ -72,7 +72,7 @@ Here are the courses grouped by area of study
 |   *University of Alberta*                          |                                                 |
 | **Design Patterns**                                | <span class="completed">September 2024</span>   |
 |   *University of Alberta*                          |                                                 |
-| **Software Architecture**                          | <span class="not">Not yet</span>                |
+| **Software Architecture**                          | <span class="completed">September 2024</span>                |
 |   *University of Alberta*                          |                                                 |
 
 
@@ -120,7 +120,7 @@ Here are the courses grouped by area of study
 | *University of Jerusalem*                          |                                                |
 | **Operating Systems: Three Easy Pieces**           | <span class="not">Not yet</span>               |
 | *Book*                                             |                                                |
-| **Computer Networking: A Top-Down Approach**       | <span class="in-progress">In Progress</span>    |
+| **Computer Networking: A Top-Down Approach**       | <span class="not">Not yet</span>    |
 | *Book*                                             |                                                |
 
 
@@ -156,8 +156,7 @@ Here are the courses grouped by area of study
 | *University of Washington*                         |                                                |
 | **Computer Graphics**                              | <span class="not">Not yet</span>               |
 | *University of California San Diego*               |                                                |
-| **Software Engineering: Introduction**             | <span class="not">Not yet</span>               |
-| *IBM*                                              |                                                |
+
 
 
 ## Core Ethics
