@@ -40,7 +40,7 @@ Here are the courses grouped by area of study
 ## Introduction to Programming
 
 | Suggested Course                                     | Completed Date                                  |
-| -------------------------------------------------- | --------------------------------------------- |
+| ---------------------------------------------------- | ----------------------------------------------- |
 | **CS50-P Introduction to Programming with Python**   | <span class="completed">August 2023</span>      |
 | *Harvard University*                                 |                                                 |
 | **OR**                                               |                                                 |
@@ -50,8 +50,8 @@ Here are the courses grouped by area of study
 
 ## Introduction to Computer Science
 
-| Completed Equivalent                   | Completed Date                                  |
-| --------------------------------------  | --------------------------------------------- |
+| Completed Equivalent                      | Completed Date                                  |
+| ----------------------------------------- | ----------------------------------------------- |
 | **CS50 Introduction to Computer Science** | <span class="completed">August 2023</span>      |
 | *Harvard University*                      |                                                 |
 
@@ -59,20 +59,20 @@ Here are the courses grouped by area of study
 ## Core Programming
 
 | Suggested Course                                   | Completed Date                                  |
-| ------------------------------------------------ | --------------------------------------------- |
+| -------------------------------------------------- | ----------------------------------------------- |
 | **Systematic Program Design**                      | <span class="not">Not yet</span>                |
 |   *UBC*                                            |                                                 |
-| **Programming Languages, Part A**                   | <span class="completed">July 2024</span>        |
+| **Programming Languages, Part A**                  | <span class="completed">July 2024</span>        |
 |   *University of Washington*                       |                                                 |
-| **Programming Languages, Part B**                   | <span class="completed">July 2024</span>        |
+| **Programming Languages, Part B**                  | <span class="completed">July 2024</span>        |
 |   *University of Washington*                       |                                                 |
-| **Programming Languages, Part C**                   | <span class="completed">August 2024</span>      |
+| **Programming Languages, Part C**                  | <span class="completed">August 2024</span>      |
 |   *University of Washington*                       |                                                 |
 | **Object-Oriented Design**                         | <span class="completed">August 2024</span>      |
 |   *University of Alberta*                          |                                                 |
 | **Design Patterns**                                | <span class="completed">September 2024</span>   |
 |   *University of Alberta*                          |                                                 |
-| **Software Architecture**                          | <span class="completed">September 2024</span>                |
+| **Software Architecture**                          | <span class="completed">September 2024</span>   |
 |   *University of Alberta*                          |                                                 |
 
 
@@ -112,21 +112,21 @@ Here are the courses grouped by area of study
 
 ## Core Systems
 
-| Suggested Course                                   | Completed Date                                  |
+| Suggested Course                                   | Completed Date                                 |
 | -------------------------------------------------- | ---------------------------------------------- |
 | **Build a Modern Computer from First Principles, Part I**     | <span class="completed">December 2023</span>   |
 | *University of Jerusalem*                          |                                                |
-| **Build a Modern Computer from First Principles, Part II**    | <span class="not">Not yet</span>               |
+| **Build a Modern Computer from First Principles, Part II**    | <span class="not">Not yet</span>    |
 | *University of Jerusalem*                          |                                                |
 | **Operating Systems: Three Easy Pieces**           | <span class="not">Not yet</span>               |
 | *Book*                                             |                                                |
-| **Computer Networking: A Top-Down Approach**       | <span class="not">Not yet</span>    |
+| **Computer Networking: A Top-Down Approach**       | <span class="not">Not yet</span>               |
 | *Book*                                             |                                                |
 
 
 ## CS Tools
 
-| Suggested Course                                   | Completed Date                                  |
+| Suggested Course                                   | Completed Date                                 |
 | -------------------------------------------------- | ---------------------------------------------- |
 | **The Missing Semester of Your CS Education**      | <span class="not">Not yet</span>               |
 | *MIT*                                              |                                                |
@@ -134,7 +134,7 @@ Here are the courses grouped by area of study
 
 ## Core Math
 
-| Suggested Course                                   | Completed Date                                  |
+| Suggested Course                                   | Completed Date                                 |
 | -------------------------------------------------- | ---------------------------------------------- |
 | **Single Variable Calculus**                       | <span class="not">Not yet</span>               |
 | *MIT*                                              |                                                |
@@ -144,7 +144,7 @@ Here are the courses grouped by area of study
 
 ## Core Applications
 
-| Suggested Course                                   | Completed Date                                  |
+| Suggested Course                                   | Completed Date                                 |
 | -------------------------------------------------- | ---------------------------------------------- |
 | **Databases: Modeling and Theory**                 | <span class="not">Not yet</span>               |
 | *Stanford University*                              |                                                |
@@ -152,7 +152,7 @@ Here are the courses grouped by area of study
 | *Stanford University*                              |                                                |
 | **Databases: Semistructured Data**                 | <span class="not">Not yet</span>               |
 | *Stanford University*                              |                                                |
-| **Machine Learning**                               | <span class="in-progress">In Progress</span>    |
+| **Machine Learning**                               | <span class="in-progress">In Progress</span>   |
 | *University of Washington*                         |                                                |
 | **Computer Graphics**                              | <span class="not">Not yet</span>               |
 | *University of California San Diego*               |                                                |
@@ -161,11 +161,11 @@ Here are the courses grouped by area of study
 
 ## Core Ethics
 
-| Suggested Course                                   | Completed Date                                  |
+| Suggested Course                                   | Completed Date                                 |
 | -------------------------------------------------- | ---------------------------------------------- |
 | **Ethics, Technology, and Engineering**            | <span class="not">Not yet</span>               |
 | *Eindhoven University of Technology*               |                                                |
-| **Introduction to Intellectual Property**          | <span class="not">Not yet</span>               |
+| **Introduction to Intellectual Property**          | <span class="completed">September 2024</span>  |
 | *University of Pennsylvania*                       |                                                |
 | **Data Privacy Fundamentals**                      | <span class="completed">September 2024</span>  |
 | *Northeastern University*                          |                                                |
@@ -179,7 +179,7 @@ I am approaching the advanced courses by covering three main areas: Advanced Pro
 
 These are not mandatory or listed by OSSU but they seemed interesting and were informative to me.
 
-| Electives                                          | Completed Date                                  |
+| Electives                                          | Completed Date                                 |
 | -------------------------------------------------- | ---------------------------------------------- |
 | **PostgreSQL**                                     | <span class="completed">December 2023</span>   |
 | *University of Michigan*                           |                                                |
