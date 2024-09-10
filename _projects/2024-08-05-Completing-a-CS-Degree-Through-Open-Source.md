@@ -62,11 +62,11 @@ Here are the courses grouped by area of study
 | -------------------------------------------------- | ----------------------------------------------- |
 | **Systematic Program Design**                      | <span class="not">Not yet</span>                |
 |   *UBC*                                            |                                                 |
-| **Programming Languages, Part A**                  | <span class="completed">July 2024</span>        |
+| **Programming Languages, Part A**                  | <span class="completed">June 2024</span>        |
 |   *University of Washington*                       |                                                 |
 | **Programming Languages, Part B**                  | <span class="completed">July 2024</span>        |
 |   *University of Washington*                       |                                                 |
-| **Programming Languages, Part C**                  | <span class="completed">August 2024</span>      |
+| **Programming Languages, Part C**                  | <span class="completed">July 2024</span>      |
 |   *University of Washington*                       |                                                 |
 | **Object-Oriented Design**                         | <span class="completed">August 2024</span>      |
 |   *University of Alberta*                          |                                                 |
@@ -108,6 +108,18 @@ Here are the courses grouped by area of study
 |   *University of California, Davis*                |                                                 |
 | **Identifying Security Vulnerabilities in Java**   | <span class="not">Not yet</span>                |
 |   *University of California, Davis*                |                                                 |
+
+
+## Core Ethics
+
+| Suggested Course                                   | Completed Date                                 |
+| -------------------------------------------------- | ---------------------------------------------- |
+| **Ethics, Technology, and Engineering**            | <span class="completed">September 2024</span>               |
+| *Eindhoven University of Technology*               |                                                |
+| **Introduction to Intellectual Property**          | <span class="completed">September 2024</span>  |
+| *University of Pennsylvania*                       |                                                |
+| **Data Privacy Fundamentals**                      | <span class="completed">August 2024</span>  |
+| *Northeastern University*                          |                                                |
 
 
 ## Core Systems
@@ -156,19 +168,6 @@ Here are the courses grouped by area of study
 | *University of Washington*                         |                                                |
 | **Computer Graphics**                              | <span class="not">Not yet</span>               |
 | *University of California San Diego*               |                                                |
-
-
-
-## Core Ethics
-
-| Suggested Course                                   | Completed Date                                 |
-| -------------------------------------------------- | ---------------------------------------------- |
-| **Ethics, Technology, and Engineering**            | <span class="not">Not yet</span>               |
-| *Eindhoven University of Technology*               |                                                |
-| **Introduction to Intellectual Property**          | <span class="completed">September 2024</span>  |
-| *University of Pennsylvania*                       |                                                |
-| **Data Privacy Fundamentals**                      | <span class="completed">September 2024</span>  |
-| *Northeastern University*                          |                                                |
 
 
 ## Advanced CS
