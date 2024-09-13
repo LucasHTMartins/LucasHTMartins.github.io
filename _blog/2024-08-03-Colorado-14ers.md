@@ -25,3 +25,4 @@ Current list of peaks over 14.000ft climbed:
 - Mt. Princeton
 - Mt. Yale
 - San Luis Peak
+- Challenger Point 
