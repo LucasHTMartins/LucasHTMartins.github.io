@@ -1,0 +1,25 @@
+name: Lint Markdown Files
+
+on: [push]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+   
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install proselint
+      run: |
+        pip install proselint
+
+    - name: Run proselint on markdown files
+      run: |
+        find . -name "*.md" | xargs proselint
+
