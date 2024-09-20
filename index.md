@@ -17,5 +17,4 @@ I'm Lucas, an aspiring software developer, violinist, and running enthusiast. He
 
 Thank you for visiting, and I hope you enjoy your stay!
 
-Thiss is bad stnce??
 
