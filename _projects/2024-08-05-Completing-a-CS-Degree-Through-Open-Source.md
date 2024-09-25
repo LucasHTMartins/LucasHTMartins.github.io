@@ -140,7 +140,7 @@ Here are the courses grouped by area of study
 
 | Suggested Course                                   | Completed Date                                 |
 | -------------------------------------------------- | ---------------------------------------------- |
-| **The Missing Semester of Your CS Education**      | <span class="completed">Not yet</span>         |
+| **The Missing Semester of Your CS Education**      | <span class="completed">September 2024</span>  |
 | *MIT*                                              |                                                |
 
 
