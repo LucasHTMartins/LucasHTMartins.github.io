@@ -43,9 +43,8 @@ Here are the courses grouped by area of study
 | ---------------------------------------------------- | ----------------------------------------------- |
 | **CS50-P Introduction to Programming with Python**   | <span class="completed">August 2023</span>      |
 | *Harvard University*                                 |                                                 |
-| **OR**                                               |                                                 |
 | **Python for Everybody**                             | <span class="completed">September 2023</span>   |
-| *University of Michigan*                             | (completed both)                                |
+| *University of Michigan*                             |                                                 |
 
 
 ## Introduction to Computer Science
@@ -106,7 +105,7 @@ Here are the courses grouped by area of study
 |   *University of California, Davis*                |                                                 |
 | **Identifying Security Vulnerabilities**           | <span class="completed">July 2024</span>        |
 |   *University of California, Davis*                |                                                 |
-| **Identifying Security Vulnerabilities in Java**   | <span class="not">Not yet</span>                |
+| **Identifying Security Vulnerabilities in C/C++**  | <span class="completed">September 2024</span>   |
 |   *University of California, Davis*                |                                                 |
 
 
