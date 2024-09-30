@@ -99,7 +99,7 @@ Here are the courses grouped by area of study
 
 | Suggested Course                                   | Completed Date                                  |
 | -------------------------------------------------- | ----------------------------------------------- |
-| **Cybersecurity Fundamentals**                     | <span class="not">Not yet</span>                |
+| **Cybersecurity Fundamentals**                     | <span class="completed">October 2024</span>     |
 | *Rochester Institute of Technology*                |                                                 |
 | **Principles of Secure Coding**                    | <span class="completed">July 2024</span>        |
 |   *University of California, Davis*                |                                                 |
