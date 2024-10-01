@@ -157,13 +157,19 @@ Here are the courses grouped by area of study
 
 | Suggested Course                                   | Completed Date                                 |
 | -------------------------------------------------- | ---------------------------------------------- |
-| **Databases: Modeling and Theory**                 | <span class="not">Not yet</span>               |
+| **Databases: Modeling and Theory**                 | <span class="completed">October 2024</span>               |
 | *Stanford University*                              |                                                |
 | **Databases: Relational Databases and SQL**        | <span class="not">Not yet</span>               |
 | *Stanford University*                              |                                                |
 | **Databases: Semistructured Data**                 | <span class="not">Not yet</span>               |
 | *Stanford University*                              |                                                |
-| **Machine Learning**                               | <span class="in-progress">In Progress</span>   |
+| **Machine Learning: Foundations**                  | <span class="completed">May 2024</span>   |
+| *University of Washington*                         |                                                |
+| **Machine Learning: Regression**                   | <span class="not">Not yet</span>   |
+| *University of Washington*                         |                                                |
+| **Machine Learning: Classification**               | <span class="not">Not yet</span>   |
+| *University of Washington*                         |                                                |
+| **Machine Learning: Clustering and Retrieval**     | <span class="not">Not yet</span>   |
 | *University of Washington*                         |                                                |
 | **Computer Graphics**                              | <span class="not">Not yet</span>               |
 | *University of California San Diego*               |                                                |
@@ -171,7 +177,7 @@ Here are the courses grouped by area of study
 
 ## Advanced CS
 
-I am approaching the advanced courses by covering three main areas: Advanced Programming, Advanced Systems, and Advanced Theory. No courses completed yet, but I will update as I progress through the curriculum.
+After completing every course above, OSSU recommends that students choose a subset of courses based on interest and take every course within that subset. I am currently interested in three of the main areas but have not currently started courses in any of them. The areas are: Advanced Programming, Advanced Systems, and Advanced Theory.  
 
 ## Electives
 
