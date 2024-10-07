@@ -157,19 +157,19 @@ Here are the courses grouped by area of study
 
 | Suggested Course                                   | Completed Date                                 |
 | -------------------------------------------------- | ---------------------------------------------- |
-| **Databases: Modeling and Theory**                 | <span class="completed">October 2024</span>               |
+| **Databases: Modeling and Theory**                 | <span class="completed">October 2024</span>    |
 | *Stanford University*                              |                                                |
-| **Databases: Relational Databases and SQL**        | <span class="not">Not yet</span>               |
+| **Databases: Relational Databases and SQL**        | <span class="completed">October 2024</span>    |
 | *Stanford University*                              |                                                |
 | **Databases: Semistructured Data**                 | <span class="not">Not yet</span>               |
 | *Stanford University*                              |                                                |
-| **Machine Learning: Foundations**                  | <span class="completed">May 2024</span>   |
+| **Machine Learning: Foundations**                  | <span class="completed">May 2024</span>        |
 | *University of Washington*                         |                                                |
-| **Machine Learning: Regression**                   | <span class="not">Not yet</span>   |
+| **Machine Learning: Regression**                   | <span class="not">Not yet</span>               |
 | *University of Washington*                         |                                                |
-| **Machine Learning: Classification**               | <span class="not">Not yet</span>   |
+| **Machine Learning: Classification**               | <span class="not">Not yet</span>               |
 | *University of Washington*                         |                                                |
-| **Machine Learning: Clustering and Retrieval**     | <span class="not">Not yet</span>   |
+| **Machine Learning: Clustering and Retrieval**     | <span class="not">Not yet</span>               |
 | *University of Washington*                         |                                                |
 | **Computer Graphics**                              | <span class="not">Not yet</span>               |
 | *University of California San Diego*               |                                                |
