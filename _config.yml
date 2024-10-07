@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Lucas H.T.M."
-  avatar           : "/assets/images/Head.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Head.jpeg" # path of avatar image
   bio              : "Software Developer, Violinist, Ultra-runner."
   location         : "Michigan"
   email            :

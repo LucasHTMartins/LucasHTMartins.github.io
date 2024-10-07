@@ -6,7 +6,7 @@ no_posts: true
 ---
 
 
-Here you can find detailed summaries of my programming and computer science projects.
+Here you can find summaries of my programming and computer science projects.
 
 <ul>
   {% for project in site.projects %}

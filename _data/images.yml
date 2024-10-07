@@ -1,0 +1,18 @@
+gallery-1:
+  - url: /assets/images/14ers/IMG20240830100821.jpg
+    image_path: /assets/images/14ers/IMG20240830100821.jpg
+    alt: " "
+    title: "Testing img 1"
+
+  - url: /assets/images/14ers/IMG20240830100729.jpg
+    image_path: /assets/images/14ers/IMG20240830100729.jpg
+    alt: "Description of photo 2"
+    title: "Title of photo 2"
+
+  - url: /assets/images/14ers/IMG20240805084422.jpg
+    image_path: /assets/images/14ers/IMG20240805084422.jpg
+    alt: "Description of photo 3"
+    title: "Title of photo 3"
+
+layout: grid
+columns: 3
