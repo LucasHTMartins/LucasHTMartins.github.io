@@ -161,7 +161,7 @@ Here are the courses grouped by area of study
 | *Stanford University*                              |                                                |
 | **Databases: Relational Databases and SQL**        | <span class="completed">October 2024</span>    |
 | *Stanford University*                              |                                                |
-| **Databases: Semistructured Data**                 | <span class="not">Not yet</span>               |
+| **Databases: Semistructured Data**                 | <span class="completed">October 2024</span>               |
 | *Stanford University*                              |                                                |
 | **Machine Learning: Foundations**                  | <span class="completed">May 2024</span>        |
 | *University of Washington*                         |                                                |
