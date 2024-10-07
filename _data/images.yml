@@ -1,18 +1,74 @@
 gallery-1:
+  - url: /assets/images/14ers/IMG20240720063212.jpg
+    image_path: /assets/images/14ers/IMG20240720063212.jpg
+    alt: "Description of photo 1"
+    title: "Title of photo 1"
+
+  - url: /assets/images/14ers/IMG20240725071017.jpg
+    image_path: /assets/images/14ers/IMG20240725071017.jpg
+    alt: "Description of photo 2"
+    title: "Title of photo 2"
+
+  - url: /assets/images/14ers/IMG20240730092949.jpg
+    image_path: /assets/images/14ers/IMG20240730092949.jpg
+    alt: "Description of photo 3"
+    title: "Title of photo 3"
+
+  - url: /assets/images/14ers/IMG20240803094246.jpg
+    image_path: /assets/images/14ers/IMG20240803094246.jpg
+    alt: "Description of photo 4"
+    title: "Title of photo 4"
+
+  - url: /assets/images/14ers/IMG20240805084422.jpg
+    image_path: /assets/images/14ers/IMG20240805084422.jpg
+    alt: "Description of photo 5"
+    title: "Title of photo 5"
+
+  - url: /assets/images/14ers/IMG20240830100729.jpg
+    image_path: /assets/images/14ers/IMG20240830100729.jpg
+    alt: "Description of photo 6"
+    title: "Title of photo 6"
+
   - url: /assets/images/14ers/IMG20240830100821.jpg
     image_path: /assets/images/14ers/IMG20240830100821.jpg
     alt: " "
     title: "Testing img 1"
 
-  - url: /assets/images/14ers/IMG20240830100729.jpg
-    image_path: /assets/images/14ers/IMG20240830100729.jpg
-    alt: "Description of photo 2"
-    title: "Title of photo 2"
+  - url: /assets/images/14ers/IMG20240911101558.jpg
+    image_path: /assets/images/14ers/IMG20240911101558.jpg
+    alt: "Description of photo 8"
+    title: "Title of photo 8"
 
-  - url: /assets/images/14ers/IMG20240805084422.jpg
-    image_path: /assets/images/14ers/IMG20240805084422.jpg
-    alt: "Description of photo 3"
-    title: "Title of photo 3"
+  - url: /assets/images/14ers/IMG20240911114428.jpg
+    image_path: /assets/images/14ers/IMG20240911114428.jpg
+    alt: "Description of photo 9"
+    title: "Title of photo 9"
+
+  - url: /assets/images/14ers/IMG20240911114433.jpg
+    image_path: /assets/images/14ers/IMG20240911114433.jpg
+    alt: "Description of photo 10"
+    title: "Title of photo 10"
+
+  - url: /assets/images/14ers/IMG20240911114437.jpg
+    image_path: /assets/images/14ers/IMG20240911114437.jpg
+    alt: "Description of photo 11"
+    title: "Title of photo 11"
+
+  - url: /assets/images/14ers/IMG20240911115843.jpg
+    image_path: /assets/images/14ers/IMG20240911115843.jpg
+    alt: "Description of photo 12"
+    title: "Title of photo 12"
+
+  - url: /assets/images/14ers/IMG20240911131333.jpg
+    image_path: /assets/images/14ers/IMG20240911131333.jpg
+    alt: "Description of photo 13"
+    title: "Title of photo 13"
+
+  - url: /assets/images/14ers/IMG20240911100740.jpg
+    image_path: /assets/images/14ers/IMG20240911100740.jpg
+    alt: "Description of photo 14"
+    title: "Title of photo 14"
 
 layout: grid
 columns: 3
+
