@@ -29,5 +29,5 @@ Current list of peaks over 14.000ft climbed in Colorado:
 
 Some of my favorite pictures:
 
-{% include gallery id="gallery-1" caption="Image Gallery" %}
+{% include gallery id="gallery-1" caption="" %}
 
