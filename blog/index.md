@@ -5,7 +5,7 @@ author_profile: true
 no_posts: true
 ---
 
-Here you’ll find personal news and updates related to my recent adventures.
+Here you’ll find personal news, updates, and other miscellaneous posts.
 
 <ul>
   {% for post in site.blog %}

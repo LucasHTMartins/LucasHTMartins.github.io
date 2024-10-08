@@ -9,11 +9,6 @@ gallery-1:
     alt: "Description of photo 2"
     title: "Title of photo 2"
 
-  - url: /assets/images/14ers/IMG20240730092949.jpg
-    image_path: /assets/images/14ers/IMG20240730092949.jpg
-    alt: "Description of photo 3"
-    title: "Title of photo 3"
-
   - url: /assets/images/14ers/IMG20240803094246.jpg
     image_path: /assets/images/14ers/IMG20240803094246.jpg
     alt: "Description of photo 4"
@@ -28,11 +23,6 @@ gallery-1:
     image_path: /assets/images/14ers/IMG20240830100729.jpg
     alt: "Description of photo 6"
     title: "Title of photo 6"
-
-  - url: /assets/images/14ers/IMG20240830100821.jpg
-    image_path: /assets/images/14ers/IMG20240830100821.jpg
-    alt: " "
-    title: "Testing img 1"
 
   - url: /assets/images/14ers/IMG20240911101558.jpg
     image_path: /assets/images/14ers/IMG20240911101558.jpg

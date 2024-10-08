@@ -8,7 +8,7 @@ author_profile: true
 no_posts: true
 ---
 
-A 14er is a mountain peak that exceeds 14,000ft of elevation. The US is home to 96 such peaks and Colorado has 53 (depending on how you count them...). Over the past few years I've had the opportunity to climb a few of them, this page will keep an archive of these peaks and a few pictures.
+A 14er is a mountain peak that exceeds 14,000ft of elevation. The US is home to 96 such peaks and Colorado has about 53 (depending on how they get counted). Over the past few years I've had the opportunity to climb a few of them, this page will keep an archive of these peaks and a few of my favorite pictures!
 
 Current list of peaks over 14.000ft climbed in Colorado:
 
@@ -27,7 +27,7 @@ Current list of peaks over 14.000ft climbed in Colorado:
 - San Luis Peak
 - Challenger Point 
 
+Some of my favorite pictures:
+
 {% include gallery id="gallery-1" caption="Image Gallery" %}
 
-
-More information and pictures to come...

@@ -5,8 +5,7 @@ author_profile: true
 no_posts: true
 ---
 
-
-Here you can find summaries of my programming and computer science projects.
+Follow the links below for a summary of my programming and computer science projects.
 
 <ul>
   {% for project in site.projects %}
