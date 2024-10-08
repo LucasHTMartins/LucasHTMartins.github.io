@@ -42,6 +42,16 @@ The user can also input their own boards and check their solution or ask the pro
 
 At the time, I was just starting to study cryptography and wanted to explore how easily linear ciphers can be broken due to emerging patterns. This program analyzes letter frequency in a coded message and makes an educated guess on the message by determining which rotation (shift) fits best.
 
+### The Program in Pictures
+
+{% include figure image_path="/assets/images/project-imgs/cesar-encode.png" alt="Alt text" caption="Encoding a message" align="center" %}
+
+After selecting a key (random or not), the "run"" button encodes the message based on the corresponding cypher shift. 
+
+{% include figure image_path="/assets/images/project-imgs/cesar-decode.png" alt="Alt text" caption="Decoding a message" align="center" %}
+
+The more interesting part of the program, the coded message is analyzed for letter frequency, most inputs larger than a few words are easily decoded! The program is still missing the functionality to make other languages work. 
+
 ### Learning Points
 
 - Working on this project helped me understand the basics of frequency analysis and how to implement it in code.
