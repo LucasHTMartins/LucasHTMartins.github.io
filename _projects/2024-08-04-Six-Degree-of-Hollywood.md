@@ -22,7 +22,7 @@ The first module of this program downloads the dataset, performs extraction, tra
 
 If the program find multiple names that match the searched name, it ranks results based on relevance
 
-{% include figure image_path="/assets/images/project-imgs/imdb-test.png" alt="Alt text" caption="The found connection" align="center" %}
+{% include figure image_path="/assets/images/project-imgs/imdb-text.png" alt="Alt text" caption="The found connection" align="center" %}
 
 The found connection between the two selected persons.
 
