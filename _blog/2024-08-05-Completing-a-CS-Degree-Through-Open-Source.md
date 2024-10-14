@@ -165,7 +165,7 @@ Here are the courses grouped by area of study
 | *Stanford University*                              |                                                |
 | **Machine Learning: Foundations**                  | <span class="completed">May 2024</span>        |
 | *University of Washington*                         |                                                |
-| **Machine Learning: Regression**                   | <span class="not">Not yet</span>               |
+| **Machine Learning: Regression**                   | <span class="completed">October 2024</span>    |
 | *University of Washington*                         |                                                |
 | **Machine Learning: Classification**               | <span class="not">Not yet</span>               |
 | *University of Washington*                         |                                                |

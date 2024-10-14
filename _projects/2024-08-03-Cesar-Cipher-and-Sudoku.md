@@ -29,7 +29,7 @@ Most of the functionality of the buttons and use of the program is self-explanat
 
 Here is a completed board, one of the hardest for the current implementation of the underlying algorithm.
 
-{% include figure image_path="/assets/images/project-imgs/sudoku-empty.png" alt="Alt text" caption="The program after selecting one of the pre stored boards" align="center" %}
+{% include figure image_path="/assets/images/project-imgs/sudoku-empty.png" alt="Alt text" caption="" align="center" %}
 
 The user can also input their own boards and check their solution or ask the program to solve it for them. Only numerical inputs are accepted within each number square.
 
