@@ -17,7 +17,9 @@ I wanted my program to do more than just solve any Sudoku board, so I added a fe
 
 - Found and saved “easy,” “medium,” and “hard” boards to .csv files. If the user wants to play around with the program and not have to manually input sudoku boards.
 - Allowed the user to play by themselves and check their solution.
-- Used NumPy for impressive solving speeds.
+- Used NumPy for faster solving speeds.
+
+[Github link](https://github.com/LucasHTMartins/sudoku-solver-Ui)
 
 ### The Program in Pictures
 
@@ -41,6 +43,8 @@ The user can also input their own boards and check their solution or ask the pro
 ## Caesar Cipher
 
 At the time, I was just starting to study cryptography and wanted to explore how easily linear ciphers can be broken due to emerging patterns. This program analyzes letter frequency in a coded message and makes an educated guess on the message by determining which rotation (shift) fits best.
+
+[Github link](https://github.com/LucasHTMartins/Cesar-cipher-cracker-Ui)
 
 ### The Program in Pictures
 

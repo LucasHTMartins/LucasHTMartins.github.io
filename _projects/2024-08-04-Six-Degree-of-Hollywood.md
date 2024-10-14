@@ -16,6 +16,8 @@ I eventually found a substantial dataset from IMDb, consisting of multiple relat
 
 The first module of this program downloads the dataset, performs extraction, transformation, and loading (ETL) into PostgreSQL. The second module uses that database to prompt the user for names and attempts to find the closest probable match. Finally, given keys to the TMDB API, the program generates an image with headshots and movie posters.
 
+[Github link](https://github.com/LucasHTMartins/Six-Degrees-of-Hollywood)
+
 ### The program in Images
 
 {% include figure image_path="/assets/images/project-imgs/imdb-multiple.png" alt="Alt text" caption="Multiple results" align="center" %}
