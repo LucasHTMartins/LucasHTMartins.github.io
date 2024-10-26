@@ -171,7 +171,7 @@ Here are the courses grouped by area of study
 | *University of Washington*                         |                                                |
 | **Machine Learning: Clustering and Retrieval**     | <span class="not">Not yet</span>               |
 | *University of Washington*                         |                                                |
-| **Computer Graphics**                              | <span class="not">Not yet</span>               |
+| **Computer Graphics**                              | <span class="completed">October 2024</span>               |
 | *University of California San Diego*               |                                                |
 
 
