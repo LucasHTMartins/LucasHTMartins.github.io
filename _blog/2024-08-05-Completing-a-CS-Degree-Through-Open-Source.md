@@ -171,17 +171,47 @@ Here are the courses grouped by area of study
 | *University of Washington*                         |                                                |
 | **Machine Learning: Clustering and Retrieval**     | <span class="not">Not yet</span>               |
 | *University of Washington*                         |                                                |
-| **Computer Graphics**                              | <span class="completed">October 2024</span>               |
+| **Computer Graphics**                              | <span class="completed">October 2024</span>    |
 | *University of California San Diego*               |                                                |
 
 
 ## Advanced CS
 
-After completing every course above, OSSU recommends that students choose a subset of courses based on interest and take every course within that subset. I am currently interested in three of the main areas but have not currently started courses in any of them. The areas are: Advanced Programming, Advanced Systems, and Advanced Theory.
+After completing the courses above, OSSU recommends that students choose a specialization based on interest and take every course within that subset. I am currently interested in the Advanced Programming and Advanced Systems courses and am planning to complete both tracks. 
+
+## Advanced Systems
+
+| Suggested Course                                   | Completed Date                                 |
+| -------------------------------------------------- | ---------------------------------------------- |
+| **Computation Structures 1: Digital Circuits**     | <span class="not">Not yet</span>               |
+| *MIT*                                              |                                                |
+| **Computation Structures 2: Computer Architecture**| <span class="not">Not yet</span>               |
+| *MIT*                                              |                                                |
+| **Computation Structures 3: Computer Organization**| <span class="not">Not yet</span>               |
+| *MIT*                                              |                                                |
+
+
+## Advanced Programming
+
+| Suggested Course                                   | Completed Date                                 |
+| -------------------------------------------------- | ---------------------------------------------- |
+| **Parallel Programming**                           | <span class="not">Not yet</span>               |
+| *École Polytechnique Fédérale de Lausanne*         |                                                |
+| **Compilers**                                      | <span class="not">Not yet</span>               |
+| *Stanford*                                         |                                                |
+| **Introduction to Haskell**                        | <span class="not">Not yet</span>               |
+| *University of Pennsylvania*                       |                                                |
+| **Learn Prolog Now!**                              | <span class="not">Not yet</span>               |
+| *Book*                                             |                                                |
+| **Software Debugging**                             | <span class="not">Not yet</span>               |
+| *Udacity*                                          |                                                |
+| **Software Testing**                               | <span class="not">Not yet</span>               |
+| *Udacity*                                          |                                                |
+
 
 ## Electives
 
-These are not mandatory or listed by OSSU but they seemed interesting and were informative to me.
+These are not mandatory or listed by OSSU but they seemed interesting and informative to me at the time.
 
 | Electives                                          | Completed Date                                 |
 | -------------------------------------------------- | ---------------------------------------------- |
@@ -191,12 +221,25 @@ These are not mandatory or listed by OSSU but they seemed interesting and were i
 | *Stanford University*                              |                                                |
 
 
+## Prospective Electives
 
+The following courses are also not mandatory but look interesting and I would like to pursue them eventually. Starting these will not be a priority until most of the regular curriculum has been completed.
 
-
-
-
-
-
-
-
+| Courses                                            |
+| -------------------------------------------------- |
+| **Rust Programming**                               |
+| *Duke University*                                  |
+| **Programming Paradigms**                          |
+| *Stanford*                                         |
+| **Theory of Computation**                          |
+| *MIT*                                              |
+| **Automata Theory**                                |
+| *Stanford*                                         |
+| **Introduction to Functional Programming**         |
+| *Delft University of Technology*                   |
+| **Cloud Computing Specialization**                 |
+| *University of Illinois Urbana-Champaign*          |
+| **Functional Programming in Scala Specialization** |
+| *University of Illinois Urbana-Champaign*          |
+| **Data Mining Specialization**                     |
+| *University of Illinois Urbana-Champaign*          |
