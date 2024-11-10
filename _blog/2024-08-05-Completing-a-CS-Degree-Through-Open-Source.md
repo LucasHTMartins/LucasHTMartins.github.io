@@ -77,14 +77,8 @@ Here are the courses grouped by area of study
 
 ## Core Theory
 
-| Completed Equivalents                              | Date                                        |
-| -------------------------------------------------- | ------------------------------------------- |
-| **Introduction to Artificial Intelligence with Python** | <span class="completed">January 2024</span> |
-| *Harvard University*                               |                                              |
-| **Algorithms, Part I**                             | <span class="completed">February 2024</span> |
-|   *Stanford University*                            |                                              |
-| **Algorithms, Part II**                            | <span class="not">Not yet</span>             |
-|   *Stanford University*                            |                                              |
+| Completed Equivalents                              | Date                                         |
+| -------------------------------------------------- | -------------------------------------------  |
 | **Data Structures and Algorithms, Part I**         | <span class="completed">July 2024</span>     |
 |   *Georgia Tech*                                   |                                              |
 | **Data Structures and Algorithms, Part II**        | <span class="completed">July 2024</span>     |
@@ -131,7 +125,7 @@ Here are the courses grouped by area of study
 | *University of Jerusalem*                          |                                                |
 | **Operating Systems: Three Easy Pieces**           | <span class="not">Not yet</span>               |
 | *Book*                                             |                                                |
-| **Computer Networking: A Top-Down Approach**       | <span class="not">Not yet</span>               |
+| **Computer Networking: A Top-Down Approach**       | <span class="completed">November 2024</span>   |
 | *Book*                                             |                                                |
 
 
@@ -219,6 +213,10 @@ These are not mandatory or listed by OSSU but they seemed interesting and inform
 | *University of Michigan*                           |                                                |
 | **Introduction to Mathematical Thinking**          | <span class="completed">October 2024</span>    |
 | *Stanford University*                              |                                                |
+| **Introduction to Artificial Intelligence with Python** | <span class="completed">January 2024</span> |
+| *Harvard University*                               |                                              |
+| **Algorithms, Part I**                             | <span class="completed">February 2024</span> |
+| *Stanford University*                              |                                              |
 
 
 ## Prospective Electives
@@ -243,3 +241,5 @@ The following courses are also not mandatory but look interesting and I would li
 | *University of Illinois Urbana-Champaign*          |
 | **Data Mining Specialization**                     |
 | *University of Illinois Urbana-Champaign*          |
+| **Algorithms, Part II**                            |
+| *Stanford University*                              |
