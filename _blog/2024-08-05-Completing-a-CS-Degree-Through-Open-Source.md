@@ -59,7 +59,7 @@ Here are the courses grouped by area of study
 
 | Suggested Course                                   | Completed Date                                  |
 | -------------------------------------------------- | ----------------------------------------------- |
-| **Systematic Program Design**                      | <span class="not">December 2024</span>                |
+| **Systematic Program Design**                      | <span class="completed">November 2024</span>                |
 |   *UBC*                                            |                                                 |
 | **Programming Languages, Part A**                  | <span class="completed">June 2024</span>        |
 |   *University of Washington*                       |                                                 |
@@ -117,16 +117,16 @@ Here are the courses grouped by area of study
 
 ## Core Systems
 
-| Suggested Course                                   | Completed Date                                 |
-| -------------------------------------------------- | ---------------------------------------------- |
-| **Build a Modern Computer from First Principles, Part I**     | <span class="completed">December 2023</span>   |
-| *University of Jerusalem*                          |                                                |
-| **Build a Modern Computer from First Principles, Part II**    | <span class="not">Not yet</span>    |
-| *University of Jerusalem*                          |                                                |
-| **Operating Systems: Three Easy Pieces**           | <span class="not">Not yet</span>               |
-| *Book*                                             |                                                |
-| **Computer Networking: A Top-Down Approach**       | <span class="completed">November 2024</span>   |
-| *Book*                                             |                                                |
+| Suggested Course                                           | Completed Date                               |
+| ---------------------------------------------------------- | -------------------------------------------- |
+| **Build a Modern Computer from First Principles, Part I**  | <span class="completed">December 2023</span> |
+| *University of Jerusalem*                                  |                                              |
+| **Build a Modern Computer from First Principles, Part II** | <span class="not">Not yet</span>             |
+| *University of Jerusalem*                                  |                                              |
+| **Operating Systems: Three Easy Pieces**                   | <span class="not">Not yet</span>             |
+| *Book*                                                     |                                              |
+| **Computer Networking: A Top-Down Approach**               | <span class="completed">November 2024</span> |
+| *Book*                                                     |                                              |
 
 
 ## CS Tools
@@ -171,7 +171,7 @@ Here are the courses grouped by area of study
 
 ## Advanced CS
 
-After completing the courses above, OSSU recommends that students choose a specialization based on interest and take every course within that subset. I am currently interested in the Advanced Programming and Advanced Systems courses and am planning to complete both tracks. 
+After completing the courses above, OSSU recommends that students choose one specialization based on interest and take every course within that subset. I am currently interested in the Advanced Programming and Advanced Systems courses and am planning to complete both tracks. 
 
 ## Advanced Systems
 
@@ -233,13 +233,10 @@ The following courses are also not mandatory but look interesting and I would li
 | *MIT*                                              |
 | **Automata Theory**                                |
 | *Stanford*                                         |
-| **Introduction to Functional Programming**         |
-| *Delft University of Technology*                   |
 | **Cloud Computing Specialization**                 |
 | *University of Illinois Urbana-Champaign*          |
 | **Functional Programming in Scala Specialization** |
 | *University of Illinois Urbana-Champaign*          |
 | **Data Mining Specialization**                     |
 | *University of Illinois Urbana-Champaign*          |
-| **Algorithms, Part II**                            |
-| *Stanford University*                              |
+
