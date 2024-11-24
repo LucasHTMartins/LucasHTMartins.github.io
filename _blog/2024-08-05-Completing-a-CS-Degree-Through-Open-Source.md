@@ -121,7 +121,7 @@ Here are the courses grouped by area of study
 | ---------------------------------------------------------- | -------------------------------------------- |
 | **Build a Modern Computer from First Principles, Part I**  | <span class="completed">December 2023</span> |
 | *University of Jerusalem*                                  |                                              |
-| **Build a Modern Computer from First Principles, Part II** | <span class="not">Not yet</span>             |
+| **Build a Modern Computer from First Principles, Part II** | <span class="completed">November 2024</span> |
 | *University of Jerusalem*                                  |                                              |
 | **Operating Systems: Three Easy Pieces**                   | <span class="not">Not yet</span>             |
 | *Book*                                                     |                                              |
@@ -171,7 +171,7 @@ Here are the courses grouped by area of study
 
 ## Advanced CS
 
-After completing the courses above, OSSU recommends that students choose one specialization based on interest and take every course within that subset. I am currently interested in the Advanced Programming and Advanced Systems courses and am planning to complete both tracks. 
+After completing the courses above, OSSU recommends that students choose one specialization based on interest and take every course within that subset. I am currently interested in the Advanced Systems track.
 
 ## Advanced Systems
 
@@ -183,24 +183,6 @@ After completing the courses above, OSSU recommends that students choose one spe
 | *MIT*                                              |                                                |
 | **Computation Structures 3: Computer Organization**| <span class="not">Not yet</span>               |
 | *MIT*                                              |                                                |
-
-
-## Advanced Programming
-
-| Suggested Course                                   | Completed Date                                 |
-| -------------------------------------------------- | ---------------------------------------------- |
-| **Parallel Programming**                           | <span class="not">Not yet</span>               |
-| *École Polytechnique Fédérale de Lausanne*         |                                                |
-| **Compilers**                                      | <span class="not">Not yet</span>               |
-| *Stanford*                                         |                                                |
-| **Introduction to Haskell**                        | <span class="not">Not yet</span>               |
-| *University of Pennsylvania*                       |                                                |
-| **Learn Prolog Now!**                              | <span class="not">Not yet</span>               |
-| *Book*                                             |                                                |
-| **Software Debugging**                             | <span class="not">Not yet</span>               |
-| *Udacity*                                          |                                                |
-| **Software Testing**                               | <span class="not">Not yet</span>               |
-| *Udacity*                                          |                                                |
 
 
 ## Electives
@@ -233,10 +215,14 @@ The following courses are also not mandatory but look interesting and I would li
 | *MIT*                                              |
 | **Automata Theory**                                |
 | *Stanford*                                         |
-| **Cloud Computing Specialization**                 |
-| *University of Illinois Urbana-Champaign*          |
 | **Functional Programming in Scala Specialization** |
 | *University of Illinois Urbana-Champaign*          |
-| **Data Mining Specialization**                     |
-| *University of Illinois Urbana-Champaign*          |
+| **Parallel Programming**                           | 
+| *École Polytechnique Fédérale de Lausanne*         | 
+| **Compilers**                                      | 
+| *Stanford*                                         | 
+| **Introduction to Haskell**                        | 
+| *University of Pennsylvania*                       | 
+| **Learn Prolog Now!**                              | 
+| *Book*                                             | 
 
