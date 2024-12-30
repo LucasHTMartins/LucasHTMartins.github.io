@@ -123,7 +123,7 @@ Here are the courses grouped by area of study
 | *University of Jerusalem*                                  |                                              |
 | **Build a Modern Computer from First Principles, Part II** | <span class="completed">November 2024</span> |
 | *University of Jerusalem*                                  |                                              |
-| **Operating Systems: Three Easy Pieces**                   | <span class="not">Not yet</span>             |
+| **Operating Systems: Three Easy Pieces**                   | <span class="completed">December 2024</span> |
 | *Book*                                                     |                                              |
 | **Computer Networking: A Top-Down Approach**               | <span class="completed">November 2024</span> |
 | *Book*                                                     |                                              |
@@ -209,8 +209,6 @@ The following courses are also not mandatory but look interesting and I would li
 | -------------------------------------------------- |
 | **Rust Programming**                               |
 | *Duke University*                                  |
-| **Programming Paradigms**                          |
-| *Stanford*                                         |
 | **Theory of Computation**                          |
 | *MIT*                                              |
 | **Automata Theory**                                |
@@ -223,6 +221,4 @@ The following courses are also not mandatory but look interesting and I would li
 | *Stanford*                                         | 
 | **Introduction to Haskell**                        | 
 | *University of Pennsylvania*                       | 
-| **Learn Prolog Now!**                              | 
-| *Book*                                             | 
 
